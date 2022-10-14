@@ -5,7 +5,7 @@ Information
 <img src="Tao.gif" align="left" width=210>
 
 ```ts
-Ducko
+Táo Đẳng Cấp
 -----------
 OS:        Windows
 DE:        Normal JavaScripter from Vietnam

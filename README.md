@@ -2,7 +2,7 @@
 Information
 ```
 
-<img src="Tao.gif" align="left" width=215>
+<img src="Tao.gif" align="left" width=315>
 
 ```ts
 Ducko
@@ -24,7 +24,3 @@ Discords:  INFINITY x FAMILY
     <img src="https://discord.c99.nl/widget/theme-1/740944604198862869.png"/>
   </a>
 </p>
-  
-```bash
-Stats
-```

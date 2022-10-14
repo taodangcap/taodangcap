@@ -2,7 +2,7 @@
 Information
 ```
 
-<img src="Tao.gif" align="left" width=205>
+<img src="Tao.gif" align="left" width=215>
 
 ```ts
 Ducko

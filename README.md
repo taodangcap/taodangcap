@@ -26,5 +26,5 @@ Discords:  INFINITY x FAMILY
 </p>
 <h2 align="center">📄Ramdom Quotes📄</h2>
 <div align="right">
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=default&font=default)
+https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=default&font=default
 <div>

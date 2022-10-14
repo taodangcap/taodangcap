@@ -24,7 +24,12 @@ Discords:  INFINITY x FAMILY
     <img src="https://discord.c99.nl/widget/theme-1/740944604198862869.png"/>
   </a>
 </p>
-<h2 align="center">📄Ramdom Quotes📄</h2>
-<div align="right">
-https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=default&font=default
-<div>
+<h2 align="center">📄Discord📄</h2>
+<p align="left">
+  <a href="https://discord.com/users/740944604198862869">
+    <img src="https://discord.c99.nl/widget/theme-4/740944604198862869.png"/>
+  </a>
+  <a href="https://discord.com/users/740944604198862869">
+    <img src="https://discord.c99.nl/widget/theme-1/740944604198862869.png"/>
+  </a>
+</p>

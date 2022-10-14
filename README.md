@@ -28,6 +28,6 @@ Discords:  INFINITY x FAMILY
 <br>
 <div align="center">
    <a href="#" title="Taodangcap">
-    <img width="315" align="center" src=https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default" />
+    <img width="500px" align="center" src=https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default" />
   </a>
 </div>

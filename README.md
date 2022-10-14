@@ -6,7 +6,7 @@ Information
 
 ```ts
 Táo Đẳng Cấp
------------
+------------
 OS:        Windows
 DE:        Normal JavaScripter from Vietnam
 Uptime:    18 years

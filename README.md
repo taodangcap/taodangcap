@@ -24,12 +24,6 @@ Discords:  INFINITY x FAMILY
     <img src="https://discord.c99.nl/widget/theme-1/740944604198862869.png"/>
   </a>
 </p>
-<details>
-<summary>Spoiler</summary>
-<img src="standard.gif" width= 100%">
-
-</details>
-
 <h2 align="center">📑Random Quote📑</h2>
 <br>
 <div align="center">
@@ -37,3 +31,8 @@ Discords:  INFINITY x FAMILY
     <img width="100%" align="center" src=https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=default&font=default" />
   </a>
 </div>
+                                                                                                                                                    <details>
+<summary>Spoiler</summary>
+<img src="standard.gif" width= 100%">
+
+</details>

@@ -36,6 +36,6 @@ Discords:  INFINITY x FAMILY
 <br>
 <div align="center">
    <a href="#" title="Taodangcap">
-    <img width="100%" align="center" src=standard.gif" />
+    <img width="100%" align="center" src=https://github.com/taodangcap/taodangcap/blob/main/standard.gif" />
   </a>
 </div>

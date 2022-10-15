@@ -24,13 +24,11 @@ Discords:  INFINITY x FAMILY
     <img src="https://discord.c99.nl/widget/theme-1/740944604198862869.png"/>
   </a>
 </p>
-<h2 align="center">Banner</h2>
-<br>
-<div align="center">
-   <a href="#" title="Taodangcap">
-    <img width="80%" align="center" src="standard.gif"" />
-  </a>
-</div>
+<details>
+<summary>Spoiler</summary>
+<img src="standard.gif" width= 100%">
+
+</details>
 
 <h2 align="center">📑Random Quote📑</h2>
 <br>

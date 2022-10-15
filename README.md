@@ -24,11 +24,11 @@ Discords:  INFINITY x FAMILY
     <img src="https://discord.c99.nl/widget/theme-1/740944604198862869.png"/>
   </a>
 </p>
-<h2 align="center">📑Random Quote📑</h2>
+<h2 align="center">Banner</h2>
 <br>
 <div align="center">
    <a href="#" title="Taodangcap">
-    <img width="100%" align="center" src=https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=default&font=default" />
+    <img width="80%" align="center" src="standard.gif"" />
   </a>
 </div>
 
@@ -36,6 +36,6 @@ Discords:  INFINITY x FAMILY
 <br>
 <div align="center">
    <a href="#" title="Taodangcap">
-    <img width="100%" align="center" src="standard.gif"" />
+    <img width="100%" align="center" src=https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=default&font=default" />
   </a>
 </div>

@@ -15,24 +15,55 @@ Skills:    JavaScript, HTML, CSS,
 Bots:      Anya Cute, Tao Dang Cap, 7zyx
 Discords:  INFINITY x FAMILY
 ```
-<h2 align="center">📄Discord📄</h2>
+<h1 align="center">👋 Xin chào, mình là Huy (taodangcap)</h1>
 <p align="center">
-  <a href="https://discord.com/users/740944604198862869">
-    <img src="https://discord.c99.nl/widget/theme-4/740944604198862869.png"/>
-  </a>
-  <a href="https://discord.com/users/740944604198862869">
-    <img src="https://discord.c99.nl/widget/theme-1/740944604198862869.png"/>
-  </a>
+  💻 Lập trình viên Python | 🎮 Dev Discord Bot | 🎵 Người yêu âm nhạc | 🇻🇳 Made in Vietnam
 </p>
-<h2 align="center">📑Random Quote📑</h2>
-<br>
-<div align="center">
-   <a href="#" title="Taodangcap">
-    <img width="100%" align="center" src=https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=default&font=default" />
-  </a>
-</div>
-                                                                                                                                                    <details>
-<summary>Spoiler</summary>
-<img src="standard.gif" width= 100%">
 
-</details>
+---
+
+## 🧠 Giới thiệu
+
+Xin chào! Mình là **Trịnh Quang Huy**, còn được biết đến với tên **taodangcap**.
+
+- 🔭 Mình đang phát triển các **Discord Bot** với các tính năng như:
+  - Âm nhạc từ YouTube & Spotify
+  - Game tương tác như Blackjack, Baccarat, Monopoly
+  - Kết nối với **TikTok Live** để đọc bình luận, thông báo quà, điều khiển game
+- 💬 Mình sử dụng chính:
+  - `Python`, `discord.py`, `wavelink`, `aoi.js`, `Node.js`, `sqlite3`
+- 🧠 Dự án nổi bật: 
+  - Bot game bài có ảnh động và bảng xếp hạng
+  - TikTok → Discord Bridge (Live comments & gift tracking)
+- 🌐 Website: [trinhquanghuy.net](https://trinhquanghuy.net/)
+- 🎧 YouTube: [Trịnh Quang Huy](https://www.youtube.com/@trinhquanghuy)
+
+---
+
+## 🧰 Công cụ & Công nghệ
+
+<img src="https://skillicons.dev/icons?i=python,discordjs,nodejs,sqlite,github,html,css,vscode" />
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taodangcap&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taodangcap&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Kết nối với mình
+
+- 💼 Portfolio: [trinhquanghuy.net](https://trinhquanghuy.net/)
+- 🧠 GitHub: [github.com/taodangcap](https://github.com/taodangcap)
+- 📧 Email: huyquangtrinh.dev@gmail.com *(hoặc email của bạn nếu khác)*
+
+---
+
+> *Tôi xây dựng vì cộng đồng, tự hào là người Việt làm bot cho người Việt 🇻🇳*
+
+

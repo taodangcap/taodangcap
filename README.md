@@ -31,12 +31,12 @@ Xin chào! Mình là **Trịnh Quang Huy**, còn được biết đến với t�
   - Game tương tác như Blackjack, Baccarat, Monopoly
   - Kết nối với **TikTok Live** để đọc bình luận, thông báo quà, điều khiển game
 - 💬 Mình sử dụng chính:
-  - `Python`, `discord.py`, `wavelink`, `aoi.js`, `Node.js`, `sqlite3`
+  - `Python`, `discord.py`, `wavelink`, `aoi.js`, `Node.js`, `sqlite3`, `HTML`, `CSS`, `Javascript`, `PHP`, `discord.js` ...
 - 🧠 Dự án nổi bật: 
   - Bot game bài có ảnh động và bảng xếp hạng
   - TikTok → Discord Bridge (Live comments & gift tracking)
 - 🌐 Website: [trinhquanghuy.net](https://trinhquanghuy.net/)
-- 🎧 YouTube: [Trịnh Quang Huy](https://www.youtube.com/@trinhquanghuy)
+- 🎧 YouTube: [Trịnh Quang Huy](https://www.youtube.com/@7zyx)
 
 ---
 

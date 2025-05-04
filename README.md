@@ -13,7 +13,6 @@ Uptime:    18 years
 Discord:   740944604198862869
 Skills:    JavaScript, HTML, CSS,
 Bots:      Anya Cute, Tao Dang Cap, 7zyx
-Discords:  INFINITY x FAMILY
 ```
 <h1 align="center">👋 Xin chào, mình là Huy (taodangcap)</h1>
 <p align="center">

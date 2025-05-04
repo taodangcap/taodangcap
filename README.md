@@ -60,7 +60,7 @@ Xin chào! Mình là **Trịnh Quang Huy**, còn được biết đến với t�
 
 - 💼 Portfolio: [trinhquanghuy.net](https://trinhquanghuy.net/)
 - 🧠 GitHub: [github.com/taodangcap](https://github.com/taodangcap)
-- 📧 Email: huyquangtrinh.dev@gmail.com *(hoặc email của bạn nếu khác)*
+- 📧 Email: Huy@trinhquanghuy.net 
 
 ---
 

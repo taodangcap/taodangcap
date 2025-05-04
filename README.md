@@ -2,7 +2,7 @@
 Information
 ```
 
-<img src="tao.gif" align="left" width=190>
+<img src="Tao.gif" align="left" width=190>
 
 ```ts
 Táo Đẳng Cấp
